@@ -62,7 +62,9 @@ Excel / CSV (from Kaggle) – Source data preparation
 
 GitHub – Version control and documentation
 
-🤝 Contribution Contributions are welcome! If you’d like to enhance the dashboard or extend the analysis:
+**🤝 Contribution Contributions are welcome!**
+
+If you’d like to enhance the dashboard or extend the analysis:
 
 Fork this repository
 
